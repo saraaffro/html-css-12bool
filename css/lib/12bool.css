@@ -103,16 +103,28 @@
     justify-content: space-around;
 }
 
-.left{
+.jc-left{
     justify-content: left;
 }
 
-.right{
+.jc-right{
     justify-content: right;
 }
 
-.center{
+.jc-center{
     justify-content: center;
+}
+
+.ai-start{
+    align-items: flex-start;
+}
+
+.ai-center{
+    align-items: center;
+}
+
+.ai-end{
+    align-items: flex-end;
 }
 
 

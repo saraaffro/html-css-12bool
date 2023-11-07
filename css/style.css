@@ -17,3 +17,15 @@
 .row{
     margin-bottom: 50px;
 }
+
+.jc-left, .jc-right, .jc-center{
+    margin-bottom: 0;
+}
+
+.ai-start, .ai-center{
+    margin-bottom: 0;
+}
+
+.tall{
+    height: 100px;
+}
